@@ -1,0 +1,14 @@
+LogSystem Pro v28
+=================
+
+Windows → duplo-clique em LogSystem.bat
+          (instala na 1a vez e abre o sistema)
+
+Linux   → chmod +x LogSystem.sh && ./LogSystem.sh
+
+main.py → arquivo do programa (nao abra manualmente)
+          o instalador chama ele automaticamente
+
+Login: use o email e senha cadastrados pelo administrador.
+
+Temas: Escuro (padrao) e Azul — em Configuracoes

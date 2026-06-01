@@ -1,0 +1,23 @@
+{
+  "transportadoras": [
+    "Correios",
+    "Loggi",
+    "Braspress",
+    "J&T Express",
+    "Azul Cargo",
+    "Sao Miguel",
+    "Retirada Carbon",
+    "Jadlog",
+    "Magalu Entregas"
+  ],
+  "plataformas": [
+    "Shopee",
+    "Mercado Livre",
+    "Amazon",
+    "Magalu",
+    "Site Proprio",
+    "Outros",
+    "Venda interna"
+  ],
+  "pageSize": 25
+}
