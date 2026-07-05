@@ -21,6 +21,13 @@ relatórios e importação de XML de NF-e.
 - **Período ativo**: 2025 — 2026
 - Histórico completo de versões em `LogSystem_Pro_Historico_Versoes.pdf`
 
+## Como era
+
+Tela de analíticos e relatórios, com o sistema em produção real
+(1.735 pedidos acompanhados):
+
+![Analíticos e Relatórios](screenshots/analiticos.png)
+
 ## Lições que levaram à reescrita
 
 - Persistência por blob JSON com rewrite completo a cada save inviabilizou
